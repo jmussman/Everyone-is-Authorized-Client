@@ -20,7 +20,7 @@ The library code targets Java 1.8 and above. The JUnit tests are built with JUni
 
 ### Documentation
 
-Read the JavaDoc at https://jmussman.github.io/the-bank-of-random-credit-authorizer/.
+Read the JavaDoc at https://jmussman.github.io/The-Bank-of-Random-Credit-Authorizer/.
 
 <hr>
 Copyright © 2020 Joel Mussman. All rights reserved.
