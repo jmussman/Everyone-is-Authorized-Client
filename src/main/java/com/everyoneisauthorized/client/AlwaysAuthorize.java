@@ -44,7 +44,7 @@ public class AlwaysAuthorize {
      * @param number The card number to charge.
      * @return A unique token tied to the transaction if the charge is allowed, or null if it is not.
      */
-    public String purchase(double amt, String number) {
+    public String authorize(double amt, String number) {
 
         String result = null;
 

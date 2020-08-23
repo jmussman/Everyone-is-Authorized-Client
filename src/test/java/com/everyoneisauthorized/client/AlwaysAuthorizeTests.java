@@ -30,7 +30,7 @@ public class AlwaysAuthorizeTests {
 
         when(cardValidator.validateCardNumber(cardNumber)).thenReturn(false);
 
-        authorizer.purchase(100.00, cardNumber);
+        authorizer.authorize(100.00, cardNumber);
 
         verify(cardValidator, times(1)).validateCardNumber(cardNumber);
     }

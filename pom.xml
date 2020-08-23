@@ -10,7 +10,7 @@ to github.
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wonderfulwidgets.retail</groupId>
-    <artifactId>the-bank-of-random-credit-authorizer</artifactId>
+    <artifactId>everyone-is-authorized-client</artifactId>
     <version>1.1</version>
 
     <properties>
